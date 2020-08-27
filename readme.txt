@@ -4,3 +4,4 @@ Git is a free software.
 hello
 
 stupid boss
+分布式版本库
